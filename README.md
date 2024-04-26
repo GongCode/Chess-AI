@@ -20,8 +20,8 @@ Fully functioning program for analyzing and playing chess again an AI. Developed
 * Piece highlighting
 * Custom chess board and pieces
 <p>
-  <img src="img/tn2.png" width="350" hspace="0" />
-  <img src="img/tn3.png" width="350" hspace="32" />
+  <img src="img/tn2.png" width="352" hspace="0" />
+  <img src="img/tn3.png" width="352" hspace="32" />
 </p>
 
 # Algorithm
